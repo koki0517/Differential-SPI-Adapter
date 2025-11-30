@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "AM26LV31")(type "KiCad")(uri "${KIPRJMOD}/ul_AM26LV31CD/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "AM26LV32")(type "KiCad")(uri "${KIPRJMOD}/ul_AM26LV32CD/KiCADv6/footprints.pretty")(options "")(descr ""))
+)
